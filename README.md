@@ -11,3 +11,5 @@ This repository hosts a Scientific Calculator application with an appealing user
 - Constants: pi, e
 
 The application is designed to enhance user experience and includes instructions for efficient use.
+
+https://github.com/rizwan474/Scientific_Calculater_Python/issues/1#issue-2383101743
