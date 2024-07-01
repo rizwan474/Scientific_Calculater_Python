@@ -12,4 +12,5 @@ This repository hosts a Scientific Calculator application with an appealing user
 
 The application is designed to enhance user experience and includes instructions for efficient use.
 
-https://github.com/rizwan474/Scientific_Calculater_Python/issues/1#issue-2383101743
+![Scientific_Calculator](https://github.com/rizwan474/Scientific_Calculater_Python/assets/150270651/bc0e1993-505c-4334-8294-b51a378f753e)
+
